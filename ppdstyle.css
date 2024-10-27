@@ -1,0 +1,39 @@
+/* the styles for the type selectors */
+body{ font-family: Arial, Helvetica, sans-serif;
+      font-size: 90%;
+      width: 85%;
+      color: #FF1493;
+      background-image: url(https://media.istockphoto.com/id/587876546/photo/sleeping-newborn.jpg?s=612x612&w=0&k=20&c=A1jKcBSNVg9dJOQjQ6VmqMWM9VDJIQ26cwe3szayipc=);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+h1, h2, h3, p{
+    padding: 0; }
+p { font-size: .9em;}
+
+/* the styles for the header */
+header{ width: 90%;
+
+}
+
+/* the styles for the navgation menu */
+#nav_menu{ width: 100%;}
+#nav_menu ul{width: 75%;}
+
+/* the styles for the main */
+main{width: 100%;
+}
+
+/* the styles of the section */
+section{
+    text-transform: none;
+    color: brown;
+    background-color: cornsilk;
+}
+
+/* the styles of the footer */
+footer{ width: auto;
+    text-decoration: underline;
+
+}
